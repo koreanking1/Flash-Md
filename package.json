@@ -1,15 +1,15 @@
 {
-   "name": "suhail-md",
+   "name": "flash-md",
    "version": "1.2.8-repl",
-   "description": "Multi device whatsapp bot by SuhailTechInfo.",
+   "description": "Multi device whatsapp bot Created by France King, The Greatest Of All Time🐐.",
    "main": "lib/client.js",
    "type": "commonjs",
    "engines" : { "node": "v18.16.0", "npm": "9.5.1" },
    "scripts": {
-             "start": "pm2 start lib/client.js --deep-monitoring --attach --name Suhail",
-             "stop": "pm2 stop Suhail"             
+             "start": "pm2 start lib/client.js --deep-monitoring --attach --name Flash",
+             "stop": "pm2 stop Flash"             
    },
-   "author": "SuhailTechInfo",
+   "author": "France King",
    "license" :"Apache-2.0",
    "dependencies": { 
              "@adiwajshing/keyed-db": "^0.2.4",
@@ -68,10 +68,10 @@
    },
    "repository": {
              "type": "git",
-             "url": "git+https://github.com/SuhailTechInfo/Suhail-Md.git"
+             "url": "git+https://github.com/franceking1/Flash-Md.git"
    },
    "bugs": {
-             "url": "https://github.com/SuhailTechInfo/Suhail-Md/issues"
+             "url": "https://github.com/franceking1/Flash-Md/issues"
    },
-   "homepage": "https://github.com/SuhailTechInfo/Suhail-Md#readme"
+   "homepage": "https://github.com/franceking1/Flash-Md#readme"
 }
