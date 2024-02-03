@@ -1,5 +1,5 @@
  <h1 align="center"> Flash Md </h1> 
-<p align="center"> Introducing Flasg_Md, It is designed to bring a whole new level of excitement to your boring WhatsApp use. Created by France King. </p>
+<p align="center"> Introducing Flash_Md, It is designed to bring a whole new level of excitement to your boring WhatsApp use. Created by France King. </p>
 
 <p align="center">
   <a href="https://instagram.com/@france.king1">
