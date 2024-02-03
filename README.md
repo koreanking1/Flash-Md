@@ -112,5 +112,5 @@ The Flash_Md is made available under the [GPL-3 license](https://github.com/fran
 ## 
 - *Flash-Md is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
 - *In that case, I'm not responsible for banning your account.*
-- *Use Suhail-Md at your own risk by keeping this warning in mind.*
+- *Use Flash-Md at your own risk by keeping this warning in mind.*
 - [`heroku`]( https://dashboard.heroku.com/new?template=https://github.com/franceking1/Flash-Md)
