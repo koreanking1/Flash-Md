@@ -89,7 +89,7 @@
 6.  ***Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=https://github.com/franceking1/Flash-Md)***
 7.  ***Deploy on [`Replit`](https://replit.com/github/franceking1/Flash-Md)***
 8.  ***Deploy on [`Railway`](https://railway.app/template/GZOvIe?referralCode=wVDLrh)***
-9.  ***Deploy on [`Koyeb`](https://app.koyeb.com/apps/deploy?type=git&repository=github.com/franceking1/Flash-Md&branch=main&env[SESSION_ID]&env[OWNER_NUMBER]=254757835036&env[MONGODB_URI]&&env[OWNER_NAME]=France+King&env[KOYEB_API]&env[PREFIX]=.&env[WAPRESENCE]&env[AUTO_READ_STATUS]=false&env[DISABLE_PM]=false&env[PACK_AUTHER]=France+King&env[PACK_NAME]=Flash+MD&env[STYLE]=0&env[MODE]=private&env[READ_MESSAGE]=false&env[THEME]=FLASH&env[WARN_COUNT]=3&env[BLOCK_JID]=null&env[TIME_ZONE]=Africa/Kenya&name=Flash-md&env[KOYEB_NAME]=Flash-md&env[SUDO]=254757835036&env[THUMB_IMAGE]=https://telegra.ph/file/5c1f8dd6a54fbf43ec278.jpg***
+9.  ***Deploy on [`Koyeb`](https://app.koyeb.com/apps/deploy?type=git&repository=github.com/franceking1/Flash-Md&branch=main&env[SESSION_ID]&env[OWNER_NUMBER]=254757835036&env[MONGODB_URI]&&env[OWNER_NAME]=France+King&env[KOYEB_API]&env[PREFIX]=.&env[WAPRESENCE]&env[AUTO_READ_STATUS]=false&env[DISABLE_PM]=false&env[PACK_AUTHER]=France+King&env[PACK_NAME]=Flash+MD&env[STYLE]=0&env[MODE]=private&env[READ_MESSAGE]=false&env[THEME]=FLASH&env[WARN_COUNT]=3&env[BLOCK_JID]=null&env[TIME_ZONE]=Africa/Kenya&name=Flash-md&env[KOYEB_NAME]=Flash-md&env[SUDO]=254757835036&env[THUMB_IMAGE]=https://telegra.ph/file/5c1f8dd6a54fbf43ec278.jpg)***
 
 ##
 ---
