@@ -5,31 +5,26 @@
 //                                                                                                      // 
 //                                         Ｖ：1．2．8                                                   // 
 //                                                                                                      // 
-//            ███████╗██╗   ██╗██╗  ██╗ █████╗ ██╗██╗         ███╗   ███╗██████╗                        //
-//            ██╔════╝██║   ██║██║  ██║██╔══██╗██║██║         ████╗ ████║██╔══██╗                       //
-//            ███████╗██║   ██║███████║███████║██║██║         ██╔████╔██║██║  ██║                       //
-//            ╚════██║██║   ██║██╔══██║██╔══██║██║██║         ██║╚██╔╝██║██║  ██║                       //
-//            ███████║╚██████╔╝██║  ██║██║  ██║██║███████╗    ██║ ╚═╝ ██║██████╔╝                       //
-//            ╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚══════╝    ╚═╝     ╚═╝╚═════╝                        //
+//           
 //                                                                                                      //
 //                                                                                                      //
 //                                                                                                      //
 //══════════════════════════════════════════════════════════════════════════════════════════════════════//
 *
-   * @project_name : Suhail-Md
-   * @author : Suhail Tech Info
-   * @youtube : https://www.youtube.com/@SuhailTechInfo
-   * @description : Suhail-Md ,A Multi-functional whatsapp user bot.
+   * @project_name : Flash-Md 
+   * @author : France King 
+   * instagram: https://www.instagram.com/@france.king1 
+   * @description : Flash-Md ,A Multi-functional whatsapp user bot.
    * @version 1.2.8
 *
 * 
-   * Created By Suhail Tech Info.
-   * © 2024 Suhail-Md.
+   * Created By France King.
+   * © 2024 Flash-Md.
 */
 
 
 
-let Suhail_Md = "Suhail MD Whatsapp bot md"
+let Flash_Md = "Flash MD Whatsapp bot md"
 
 
 
